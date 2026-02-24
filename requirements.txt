@@ -1,6 +1,6 @@
 ipykernel
+jinja2
+kagglehub[pandas-dataset]
 numpy
 pandas
-kagglehub[pandas-dataset]
-xgboost
 nltk
